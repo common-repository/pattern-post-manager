@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pattern-post-manager\n"
+"POT-Creation-Date: 2018-07-03 02:18+0900\n"
+"PO-Revision-Date: 2018-07-03 02:21+0900\n"
+"Last-Translator: IT-SOLEX <contact@it-solex.jp>\n"
+"Language-Team: IT-SOLEX <contact@it-solex.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../its-ppm.php:53
+msgid "phrase pattern"
+msgstr "定型文"
+
+#: ../its-ppm.php:54
+msgid "phrase pattern list"
+msgstr "定型文一覧"
+
+#: ../its-ppm.php:55 ../its-ppm.php:56
+msgid "add phrase pattern"
+msgstr "定型文を追加"
+
+#: ../its-ppm.php:57
+msgid "edit phrase pattern"
+msgstr "定型文を編集"
+
+#: ../its-ppm.php:58
+msgid "new phrase pattern"
+msgstr "新しい定型文"
+
+#: ../its-ppm.php:59
+msgid "show phrase pattern"
+msgstr "定型文を表示"
+
+#: ../its-ppm.php:60
+msgid "search phrase pattern"
+msgstr "定型文を検索"
+
+#: ../its-ppm.php:61
+msgid "not found phrase pattern"
+msgstr "定型文が見つかりません"
+
+#: ../its-ppm.php:62
+msgid "not found phrase pattern in dustbin"
+msgstr "ゴミ箱に定型文は見つかりません"
+
+#: ../its-ppm.php:122
+msgid "select phrase pattern"
+msgstr "定型文を選択"
